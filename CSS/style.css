@@ -32,7 +32,7 @@
 }
 #en_tete
 {
-    background: url("../Image/header.png") 100% fixed no-repeat;
+    background: url("");
     border: 1px solid;
     justify-content: space-around;
 }
